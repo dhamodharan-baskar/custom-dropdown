@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`dropdown renders the correct number of stars 1`] = `Symbol(react.fragment)`;
+
+exports[`dropdown renders the dropdown component 1`] = `Symbol(react.fragment)`;
